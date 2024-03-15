@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-menu {
+  background-color: #93e399; /* Default background color */
+  color: #000; /* Default text color */
+}
+
+.custom-menu .dropdown-item:hover {
+  background-color: #fff; /* Background color on hover */
+}
+
+
